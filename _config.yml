@@ -2,7 +2,7 @@
 title: Orion Systems Analysis
 description: Experimental systems interpretation and mythic signal architecture.
 baseurl: "" # repo root
-url: "https://orion-systems-analysis.github.io"
+url: "https://osa-network.github.io"
 theme: minima
 plugins:
   - jekyll-feed

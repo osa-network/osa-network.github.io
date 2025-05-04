@@ -1,0 +1,16 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
